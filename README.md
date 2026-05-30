@@ -48,4 +48,3 @@ The project is structured for high modularity:
 python CCN-DNS/benchmark_cli.py
 ```
 
-Built with ❤️ for the CCN-DNS Project.
