@@ -35,7 +35,7 @@ The project is structured for high modularity:
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Akash26436/CCN-DNS.git
+   git clone https://github.com/ramcharankarra/CCN-DNS.git
    cd CCN-DNS
    ```
 2. Install dependencies:
@@ -48,8 +48,4 @@ The project is structured for high modularity:
 python CCN-DNS/benchmark_cli.py
 ```
 
-## 👤 Author
-**Akash**
-
----
 Built with ❤️ for the CCN-DNS Project.
